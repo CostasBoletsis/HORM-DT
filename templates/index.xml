@@ -1,0 +1,53 @@
+<templates>
+<clibs name="azure">
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/apps_and_system_logos.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/azure.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/azure_additional_or_support.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/buildings.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/databases.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/developer.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/devices.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/files.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/generic.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/infrastructure.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/integration.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/integration_patterns.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/iot_devices.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/office365.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/others.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/power_bi.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/powerapps_and_flows.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/sap.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/servers.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/users_and_roles.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/deprecated.xml</add>
+</clibs>
+<clibs name="fortinet">
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Buildings.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Cloud.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Connector_DevOps_API.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Devices.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Features.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Generic_Devices.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Generic_Products.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Generic_Technology.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_OT_and_IoT.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_People_and_NOC_SOC.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_People_and_Red_Blue_Team.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Platform_Core_Elements.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Products.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_SaaS_Family_of_Offerings.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Solutions_and_Deployment_Scenarios.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Threats_and_Threat_Services.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_Vertical_Related.xml</add>
+  <add>Uhttps://jgraph.github.io/drawio-libs/libs/fortinet/Fortinet_VM_Components.xml</add>
+</clibs>
+<template url="Swimlane Diagram/swimlane-basic.xml" title="Basic Elements" libs="basic;swimlane" tags="swimlane cjml;swimlane basic;Swimlane Basic;swim lane;swimlane"/>
+<template url="Swimlane Diagram/swimlane-template.xml" title="Template" libs="template;swimlane" tags="swimlane cjml;swimlane template;Swimlane;swim lane;swimlane"/>
+<template url="Journey Diagram/journey-basic.xml" title="Basic Elements" libs="basic-journey" tags="journey cjml;customer journey;service journey;journey basic;Journey;journey"/>
+<template url="Journey Diagram/journey-template.xml" title="Template" libs="template-journey" tags="journey cjml;customer journey;service journey;journey;Journey;journey template"/>
+<template url="Examples/healthcare.xml" title="Healthcare-Referral" libs="examples" tags="healthcare cjml;health;care;referral"/>
+<template url="Examples/phishing.xml" title="Cyber Security-Phishing" libs="examples" tags="phishing;security;cyber security"/>
+</templates>
