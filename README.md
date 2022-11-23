@@ -1,4 +1,4 @@
-# HORM Diagramming Tool (HORM-DT): A Domain-Specific Modelling Tool for SME Cybersecurity Awareness
+# HORM Diagramming Tool (HORM-DT)
 
 ## About
 
