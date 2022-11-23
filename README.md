@@ -14,12 +14,14 @@ HORM-DT is deployed and can be used at: [https://cjml.no/horm2/](https://cjml.no
 
 ## Licenses
 
-The [Diagrams.net source code](https://github.com/jgraph/drawio#license) is licensed under the [Apache v2 license](https://www.apache.org/licenses/LICENSE-2.0). The CJML provided icons and diagram templates are licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+The [Diagrams.net source code](https://github.com/jgraph/drawio#license) is licensed under the [Apache v2 license](https://www.apache.org/licenses/LICENSE-2.0). 
+The CJML provided icons and diagram templates are licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ## Running
 
-One way to run HORM-DT is to fork this project, publish the master branch to GitHub pages and the pages sites will have the full editor functionality. Another way is to download the [HORM-DT .zip file](https://github.com/CostasBoletsis/HORM-DT/archive/refs/heads/main.zip) and extract it to your server.
+One way to run HORM-DT is to fork this project, publish the master branch to GitHub pages and the pages sites will have the full editor functionality. 
+Another way is to download the [HORM-DT .zip file](https://github.com/CostasBoletsis/HORM-DT/archive/refs/heads/main.zip) and extract it to your server.
 
 ## Supported Browsers
 
