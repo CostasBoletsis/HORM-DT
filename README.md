@@ -19,7 +19,7 @@ The [Diagrams.net source code](https://github.com/jgraph/drawio#license) is lice
 
 ## Running
 
-One way to run HORM-DT is to fork this project, publish the master branch to GitHub pages and the pages sites will have the full editor functionality. Another way is to download the [HORM-DT zip file](https://github.com/CostasBoletsis/HORM-DT/archive/refs/heads/main.zip) and extract it to your server.
+One way to run HORM-DT is to fork this project, publish the master branch to GitHub pages and the pages sites will have the full editor functionality. Another way is to download the [HORM-DT .zip file](https://github.com/CostasBoletsis/HORM-DT/archive/refs/heads/main.zip) and extract it to your server.
 
 ## Supported Browsers
 
